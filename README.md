@@ -1,6 +1,6 @@
 # NODE.JS-comment
 node.js评论灌水方法
-```
+```js
 var http=require('http');
 
 var querystring=require('querystring');
